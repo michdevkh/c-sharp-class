@@ -1,0 +1,8 @@
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\bin\Debug\DoubleDivision.exe.config
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\bin\Debug\DoubleDivision.exe
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\bin\Debug\DoubleDivision.pdb
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\obj\Debug\DoubleDivision.csproj.AssemblyReference.cache
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\obj\Debug\DoubleDivision.csproj.SuggestedBindingRedirects.cache
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\obj\Debug\DoubleDivision.csproj.CoreCompileInputs.cache
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\obj\Debug\DoubleDivision.exe
+D:\_study\yearII\SemesterI\C#\DoubleDivision\DoubleDivision\obj\Debug\DoubleDivision.pdb
