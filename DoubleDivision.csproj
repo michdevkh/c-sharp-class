@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fibonaci.cs" />
+    <Compile Include="LoanDownMoney.cs" />
     <Compile Include="loanMoney.cs" />
+    <Compile Include="MoneyLoan.cs" />
     <Compile Include="NestedLoop.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="Program.cs" />

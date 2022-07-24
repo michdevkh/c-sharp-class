@@ -8,7 +8,7 @@ namespace DoubleDivision
 {
     internal class loanMoney
     {
-        static void Main()
+        static void MainM()
         {
             int months;
             double enter_rate, loan;
@@ -31,6 +31,7 @@ namespace DoubleDivision
                 total_interest += interest;
                 total_installment += installment;
             }
+            Console.WriteLine("========================================================");
             Console.WriteLine($"Total interest: {total_interest:c2}");
             Console.WriteLine($"Total instllment: {total_installment:c2}");
             Console.ReadKey();
